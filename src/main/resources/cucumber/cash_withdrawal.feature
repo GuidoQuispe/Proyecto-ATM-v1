@@ -13,7 +13,7 @@ Escenario: Retiro exitoso de una cuenta de credito (2)
         Este escenario tiene como finalidad probar si el sistema
         acepta los numeros decimales en su integridad, con la condicion 
         de que este termine en cero.
-    Dado que mi cuenta ha sido acreditada con Bs1000.50
+    Dado que mi cuenta ha sido acreditada con Bs100.50
     Cuando retiro Bs20
     Entonces Bs20 deben ser dispensados
     Y el saldo de mi cuenta debe ser de Bs80.50
