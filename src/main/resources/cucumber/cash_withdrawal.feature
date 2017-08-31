@@ -16,4 +16,4 @@ Escenario: Retiro exitoso de una cuenta de credito (2)
     Dado que mi cuenta ha sido acreditada con Bs1200
     Cuando retiro Bs200
     Entonces Bs200 deben ser dispensados
-    Y el saldo de mi cuenta debe ser de Bs100
+    Y el saldo de mi cuenta debe ser de Bs1000
